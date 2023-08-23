@@ -2,7 +2,7 @@
 
 Un juego endless runner inspirado en el famoso juego del dinosaurio de Google Chrome, desarrollado en Python utilizando la librería python-arcade.
 
-![Imagen del juego](./assets/images/dino.png)  <-- Puedes reemplazar esto con una captura de pantalla de tu juego si lo deseas.
+![Imagen del juego](./assets/images/dino.png)
 
 ## Estructura del Proyecto
 
