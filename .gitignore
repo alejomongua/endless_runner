@@ -1,0 +1,10 @@
+# Virtual environment
+# -------------------
+
+venv/
+
+# Compiled Python files
+# --------------------
+
+*.py[cod]
+__pycache__
